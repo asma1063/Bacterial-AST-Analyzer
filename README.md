@@ -20,4 +20,4 @@ This project bridges wet-lab diagnostics with computational logic. It automates 
 
 1. Clone the repository: 
    ```bash
-   git clone github.com[YOUR_USERNAME]/BioLab-Analyzer.git
+   git clone github.com[Asma Rafiq]/BioLab-Analyzer.git
